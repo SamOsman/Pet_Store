@@ -1,0 +1,56 @@
+true
+connection is succesful <br>
+Database had been created! <br>
+Pet Store database Connection is successful! <br>
+Table 'log_in_cred' has been created <br>
+Table 'Customer' has been created <br>
+Table 'pet' has been created <br>
+Table 'transactions' has been created <br>
+
+
+
+
+
+
+
+
+Username already exists
+
+Password confirmation failed
+Please enter your email (we use it in case you forget your password)
+
+
+
+
+
+
+Password confirmation failed
+email address is considered invalid.
+Username already exists
+
+Password confirmation failed
+email address is considered invalid.
+Username already exists
+
+Password confirmation failed
+email address is considered invalid.
+
+
+
+
+
+
+
+
+Username already exists
+
+
+
+
+
+
+
+Username already exists
+
+
+
